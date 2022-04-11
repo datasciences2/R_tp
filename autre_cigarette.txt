@@ -1,0 +1,5 @@
+Cigarette	TAR	NICOTINE	WEIGHT
+Benz	14.1	0.86	0.9853
+GoodLook	18	1.06	1.079
+Riverplate	9	0.67	0.928
+Melia	4.1	0.4	0.876
